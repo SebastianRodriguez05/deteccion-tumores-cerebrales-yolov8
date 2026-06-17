@@ -70,7 +70,7 @@ A diferencia de la clasificación (que solo identifica QUÉ hay en una imagen) o
  
 ## 📊 Dataset
  
-### Identificación del Dataset (REQUISITO OBLIGATORIO)
+### Identificación del Dataset 
  
 - **Nombre**: Labeled MRI Brain Tumor Dataset
 - **Autor**: Ali Rostami
